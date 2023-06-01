@@ -1,1 +1,0 @@
-OPENAI_KEY="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"
